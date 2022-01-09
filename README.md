@@ -1,5 +1,5 @@
 # Grocery List App
-> A Grocery List application written in kotlin using Android Architectural components
+> A Grocery List application written in kotlin using Android Architectural components.
 > Grocery List Application helps a individual to keep track of grocery items which he/she wants to buy .In this app he/she can create item as well as can mention its quantity and  price and the app will also calculate the total cost of items after every item added. User will also get a option to delete the item after adding if he/she wants to! 
 
 **#Tech Stacks Used**:
